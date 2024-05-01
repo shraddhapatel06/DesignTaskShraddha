@@ -1,0 +1,130 @@
+.header{
+    width: 1500px;
+    height: 200px;
+    background-color: black;
+    color: whitesmoke;
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.brand-name{
+    padding-left: 291px;
+    padding-top: 50px;
+}
+.left-menu{
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.logo{
+    /* position: absolute; */
+    width: 244px;
+    height: 46px;
+    left: 628px;
+    top: 83px;
+}
+.search-bar{
+    margin-left: -147px;
+    margin-right: 114px;
+}
+.menu{
+    margin-left: -170px;
+    padding-top: 15px;
+}
+.menu .col-md-3{
+    width: 110px;
+}
+.rectangle1{
+    position: relative;
+    width: 1164px;
+    height: 653px;
+    /* left: 1500px;
+    top: 282px; */
+    background: linear-gradient(90deg, #F6EBE7 50%, rgba(246, 235, 231, 0) 98.14%);
+}
+.grids{
+    margin-top: 406px;
+    margin-left: 42px;
+    margin-right: 105px;
+}
+.slider1{
+    width: 89%;
+    height: 265px;
+    background-color: rgba(98, 42, 0, 0.54);
+    margin-left: 52px;
+    margin-top: 42px;
+    margin-bottom: 34px;
+    border-radius: 5px;
+}
+.fa-circle-play{
+    margin: 120px;
+    padding-left: 554px;
+    font-size: xxx-large;
+    color: whitesmoke;
+}
+.rectangle2{
+    margin-left: 49px;
+}
+.rectangel2-text{
+    margin-top: -583px;
+    background: rgba(255, 255, 255, 0.7);
+    position: relative;
+    margin-left: 48px;
+    margin-right: 117px;
+    padding-bottom: 17px;
+    padding-top: 26px;
+}
+.cards{
+    margin-top: 427px;
+    margin-left: 47px;
+    margin-right: 115px;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 243px;
+}
+.rectangle3{
+    margin-left: 46px;
+    margin-right: 112px;
+    border-radius: 5px;
+}
+.rect3-text{
+    padding-top: 46px;
+    padding-bottom: 53px;   
+}
+.btn-more{
+    border: black;
+    border-style: groove;
+}
+.btn-more .fa-regular, .far {
+    font-weight: 400;
+    padding-left: 14px;
+}
+.btn-options:hover {
+    background-color: rgba(131, 68, 21, 1);
+    color: white;
+}
+.cards .card:hover{
+    border-color:  rgba(131, 68, 21, 1);
+}
+.rectangle4{
+    background-color: rgba(243, 204, 175, 0.28);
+    margin-top: 68px;
+    height: 150px;
+    margin-bottom: 50px;
+}
+.newsletter{
+    border: 6px;
+    border-style: groove;
+    /* position: relative; */
+    margin-left: 81px;
+    margin-top: 2px;
+    margin-right: 86px;
+    padding-top: 17px;
+}
+.inputEmail{
+    line-height: 2.5;
+    margin-top: 23px;
+    border-style: solid;
+    border-color: rgba(196, 196, 196, 1);
+}
